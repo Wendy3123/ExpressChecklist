@@ -1,0 +1,23 @@
+{
+  "name": "expresschecklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wendy3123/ExpressChecklist.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wendy3123/ExpressChecklist/issues"
+  },
+  "homepage": "https://github.com/Wendy3123/ExpressChecklist#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
